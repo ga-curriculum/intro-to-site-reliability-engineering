@@ -136,7 +136,7 @@ Take a moment to consider: Have you ever worked on a project where expectations 
 > 💡 Share your thoughts in a chat or with a team member—compare your experiences and brainstorm how error budgets could fit into your current or future development workflow.
 
 <div class="activity group-exercise">
-  <h2 class="title">draft a reliability target and error budget</h2>
+  <h2 class="title">Draft a reliability target and error budget</h2>
   <span class="minutes">15 min</span>
 </div>
 
@@ -177,7 +177,7 @@ Your leadership team is asking for a concrete reliability goal (SLO) before laun
    Use the Python script below to verify your answer:
 
    ```python
-   total_requests = 50_000
+   total_requests = 50000
    slo_percentage = 99.8
    allowed_failures = int(total_requests \* (1 - (slo_percentage / 100)))
    print(f"Weekly error budget: {allowed_failures} requests")

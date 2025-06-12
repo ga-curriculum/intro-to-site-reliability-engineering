@@ -30,7 +30,7 @@ This lesson introduces students to the field of Site Reliability Engineering (SR
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-site-reliability-engineering/canvas-landing-pages/tktk-course-acronym.html)
+- [PTR - Python Testing & Reliability](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-site-reliability-engineering/canvas-landing-pages/ptr.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-site-reliability-engineering/canvas-landing-pages/fallback.html)
 
 ### Resources

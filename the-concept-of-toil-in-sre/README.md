@@ -56,7 +56,7 @@ With each new feature or bug fix, these steps are repeated. If your service grow
 
 **Scenario 2: Automated deployment**
 
-Instead, suppose you create a _deploy.py_ script, or better yet, set up a CI/CD pipeline. Now, a single command or push to a repository triggers the whole workflow automatically. The process is faster, less error-prone, and scales easily with more servers.
+Instead, suppose you create a _`deploy.py`_ script, or better yet, set up a CI/CD pipeline. Now, a single command or push to a repository triggers the whole workflow automatically. The process is faster, less error-prone, and scales easily with more servers.
 
 ### Identifying toil in your own workflows
 
