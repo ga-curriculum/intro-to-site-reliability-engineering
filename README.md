@@ -1,21 +1,22 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to Site Reliability Engineering</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This lesson introduces students to the field of Site Reliability Engineering (SRE), explaining how software reliability is defined, measured, and maintained in production systems. Students will learn foundational concepts such as SLAs, SLOs, and error budgets, as well as how SRE differs from traditional operations or DevOps. This lesson sets the stage for practical work in observability, incident response, and resilience-building later in the course.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| Lesson                                                                                                 | Est. Delivery Time | Skills                                                                                        |
+| ------------------------------------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------- |
+| [Foundations of Site Reliability Engineering](./foundations-of-site-reliability-engineering/README.md) |       15 min       | Define what Site Reliability Engineering (SRE) is and how it fits into modern software teams. |
+| [SLAs, SLOs, and Error Budgets](./slas-slos-and-error-budgets/README.md)                               |       30 min       | Explain the role and purpose of SLAs, SLOs, and error budgets.                                |
+| [The Concept of Toil in SRE](./the-concept-of-toil-in-sre/README.md)                                   |       10 min       | Describe the concept of toil and why reducing it is central to SRE.                           |
+| [SRE vs Traditional IT and DevOps](./sre-vs-traditional-it-and-devops/README.md)                       |       15 min       | Compare SRE to traditional IT operations and DevOps practices.                                |
+| [Balancing Reliability and Velocity in SRE](./balancing-reliability-and-velocity-in-sre/README.md)     |       15 min       | Identify key strategies used by SREs to balance reliability and velocity.                     |
+| **Total content**                                                                                      |       75 min       |                                                                                               |
 
 ## References
 
@@ -25,32 +26,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-site-reliability-engineering/canvas-landing-pages/tktk-course-acronym.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-site-reliability-engineering/canvas-landing-pages/fallback.html)
 
 ### Resources
 

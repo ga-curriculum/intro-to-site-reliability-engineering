@@ -2,30 +2,38 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+foundationsOfSiteReliabilityEngineering = new Template.Microlesson {
+  friendlyName = "Foundations of Site Reliability Engineering"
+  dirName = "foundations-of-site-reliability-engineering"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+slasSlosAndErrorBudgets = new Template.Microlesson {
+  friendlyName = "SLAs, SLOs, and Error Budgets"
+  dirName = "slas-slos-and-error-budgets"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+theConceptOfToilInSre = new Template.Microlesson {
+  friendlyName = "The Concept of Toil in SRE"
+  dirName = "the-concept-of-toil-in-sre"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+sreVsTraditionalItAndDevops = new Template.Microlesson {
+  friendlyName = "SRE vs Traditional IT and DevOps"
+  dirName = "sre-vs-traditional-it-and-devops"
   type = "Content"
   videoUrl = ""
 }
+
+balancingReliabilityAndVelocityInSre = new Template.Microlesson {
+  friendlyName = "Balancing Reliability and Velocity in SRE"
+  dirName = "balancing-reliability-and-velocity-in-sre"
+  type = "Content"
+  videoUrl = ""
+}
+
